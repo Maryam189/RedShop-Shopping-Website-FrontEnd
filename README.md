@@ -16,7 +16,6 @@ Welcome to the official repository of REDSHOP, your go-to online storefront wher
 ## File Structure
 
 ```
-.
 ├── Apple_details.html     # Detailed view for Apple products
 ├── brands.html            # List of all available brands
 ├── cart.html              # Shopping cart interface
