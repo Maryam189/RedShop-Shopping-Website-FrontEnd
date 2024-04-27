@@ -1,7 +1,7 @@
 # RedShop-Shopping-Website-FrontEnd
 Absolutely, crafting a README for your e-commerce website 'REDSHOP' can set the right expectations for visitors and contributors to your repository. Below is a sample README structure that you can use on your GitHub repository. You can adjust the content to better fit the specifics of your project.
 
-```markdown
+
 # REDSHOP E-Commerce Website
 
 Welcome to the official repository of REDSHOP, your go-to online storefront where convenience meets style. Our platform offers a seamless shopping experience, bringing a plethora of products right to your digital doorstep.
