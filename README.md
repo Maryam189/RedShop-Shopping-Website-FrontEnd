@@ -29,7 +29,9 @@ A step-by-step series of examples that tell you how to get a development environ
 1. Clone the repository:
    ```bash
    git clone https://github.com/Maryam189/RedShop-Shopping-Website-FrontEnd.git
-
+2. Navigate to the project directory:
+   ```bash
+   cd RedShop-Shopping-Website-FrontEnd
 
 ## Authors
 
