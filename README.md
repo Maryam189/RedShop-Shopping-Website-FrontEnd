@@ -1,18 +1,4 @@
 # RedShop-Shopping-Website-FrontEnd
-Absolutely, crafting a README for your e-commerce website 'REDSHOP' can set the right expectations for visitors and contributors to your repository. Below is a sample README structure that you can use on your GitHub repository. You can adjust the content to better fit the specifics of your project.
-
-
-# REDSHOP E-Commerce Website
-
-Welcome to the official repository of REDSHOP, your go-to online storefront where convenience meets style. Our platform offers a seamless shopping experience, bringing a plethora of products right to your digital doorstep.
-
-## Features
-
-- **Responsive Design**: Our HTML templates are fully responsive, ensuring a great shopping experience on any device.
-- **Product Pages**: Detailed product pages for items such as Apple products, laptops, fashion apparel, and more.
-- **Shopping Cart**: An intuitive shopping cart experience for users to manage their selections before checkout.
-- **Secure Checkout**: A secure and straightforward checkout form for users to complete their purchases.
-# RedShop-Shopping-Website-FrontEnd
 
 Welcome to the RedShop Shopping Website Frontend! This project is the front-end component of an online shopping platform designed to offer a seamless and engaging shopping experience. Built using modern web technologies, RedShop aims to provide a responsive, fast, and accessible interface for users of all kinds.
 
@@ -30,7 +16,7 @@ Welcome to the RedShop Shopping Website Frontend! This project is the front-end 
 - **CSS3**
 - **JavaScript**
 - **Bootstrap 4**
-- **jQuery**
+
 
 ## Getting Started
 
