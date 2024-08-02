@@ -37,8 +37,7 @@ A step-by-step series of examples that tell you how to get a development environ
 
 - **Maryam Khalid** - *Initial work* - [Maryam189](https://github.com/Maryam189)
 
-See also the list of [contributors](https://github.com/Maryam189/REDSHOP/contributors) who participated in this project.
-
+Click [[HERE](https://maryam189.github.io/RedShop-Shopping-Website-FrontEnd/)] to see my website.
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md) - see the `LICENSE.md` file for details.
